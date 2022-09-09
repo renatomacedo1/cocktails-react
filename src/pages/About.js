@@ -5,10 +5,8 @@ const About = () => {
     <section className="section about-section">
       <h1 className="section-title">about us</h1>
       <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Pariatur
-        exercitationem doloribus fugit sequi quidem itaque, ut, nam veritatis
-        expedita harum quas nulla incidunt animi quo sed vel officia minus?
-        Quas.
+        Application made with React. Consumes an external API -
+        https://www.thecocktaildb.com
       </p>
     </section>
   );
